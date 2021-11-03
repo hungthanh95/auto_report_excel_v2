@@ -1,0 +1,9 @@
+et-xmlfile==1.1.0
+openpyxl==3.0.7
+Pillow==8.3.0
+ptvsd==4.3.2
+pydevd==2.4.1
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+pytesseract==0.3.7
